@@ -20,3 +20,7 @@ Language : HTML5/CSS + Utilisation de Google LightHouse
 
 Le site Brut (sans modification) se trouve sur la branche principale (main)
 Le site optimisé se trouve dans la branche secondaire (Uppgrade)
+
+Un document PDF Rapport d'optimisation est disponible.
+
+Si vous voulez ce document envoyez moi un mail à Romain71.contact@gmail.com ! 
